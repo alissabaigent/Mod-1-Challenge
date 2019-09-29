@@ -1,2 +1,4 @@
 # Mod 1 Challenge
  Module 1 application to analyze theater kickstarter outcomes based on goals and launch date
+When analyzing outcomes based on goals, there was a greater rate of success among outcomes that had goals set less than 15000. Success rate was above 50% when outcomes set less than 15000. There was a spike of success rate when goal was set within range of 35000 - 44999. However the number of outcomes are so much less, I don't find that information to be significant. 
+When analyzing the outcomes based on launch date, there is a spike in success in 2015. Successful outcomes continues but slightly declines into 2016. Successful outcomes drop off in 2017 because most of them are still live and do not have an outcome to report yet. It looks like people were just discovering kickstarter campaigns in 2013 - 2014. 
